@@ -1,0 +1,42 @@
+_repo: The-virgin-of-the-sun-b-A-tale-of-the-conquest-of-Peru_73683
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+creator:
+  author:
+    agent_name: Griffith, George Chetwynd
+    alias: Griffith-Jones, George Chetwynd
+    birthdate: 1857
+    deathdate: 1906
+    gutenberg_agent_id: '8557'
+    url: http://www.gutenberg.org/2009/agents/8557
+    wikipedia: https://en.wikipedia.org/wiki/George_Griffith
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73683'
+language: en
+pgterms:marc904: https://searchworks.stanford.edu/view/12216839
+pgterms:marc905: 20240520070341griffith
+pgterms:marc906: '1898'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aLondon :$bC. Arthur Pearson Limited, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peru -- History -- Conquest, 1522-1548 -- Fiction'
+- !lcsh 'Incas -- First contact with other peoples -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The virgin of the sun : $b A tale of the conquest of Peru'
+url: http://www.gutenberg.org/ebooks/73683
