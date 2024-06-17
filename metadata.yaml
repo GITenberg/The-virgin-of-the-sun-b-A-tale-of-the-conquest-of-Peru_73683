@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4541'
     url: http://www.gutenberg.org/2009/agents/4541
     wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+covers:
+- cover_type: archival
+  image_path: 73683-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffith, George Chetwynd
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8557
     wikipedia: https://en.wikipedia.org/wiki/George_Griffith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73683#The-virgin-of-the-sun-b-A-tale-of-the-conquest-of-Peru
 gutenberg_issued: '2024-05-24'
 gutenberg_type: Text
 identifiers:
